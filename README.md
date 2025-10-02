@@ -1,4 +1,3 @@
-md README.md
 # sift-surf-webgpu
 
 `sift-surf-webgpu` is a lightweight **WebGPU-based JavaScript library** that implements the classic SIFT (Scale-Invariant Feature Transform) and SURF (Speeded-Up Robust Features) algorithms for keypoint detection and descriptor matching — **directly in the browser**.
